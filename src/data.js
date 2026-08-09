@@ -6,7 +6,7 @@ export const profile = {
   phoneHref: "+917258099839",
   github: "https://github.com/rishi841",
   githubLabel: "github.com/rishi841",
-  linkedin: "https://linkedin.com/in/rishi-pandey",
+  linkedin: "https://www.linkedin.com/in/rishi-pandey-",
   linkedinLabel: "linkedin.com/in/rishi-pandey",
   location: "Bhopal, M.P (India)",
 };
